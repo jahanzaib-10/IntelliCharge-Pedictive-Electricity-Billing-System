@@ -102,7 +102,7 @@ IntelliCharge Predictive Electricity Billing System
 - Total payable amount
 - Usage prediction with trend and confidence
 
-## Authour Name
+## Author Name
 
 **Student Name Muhammad Jahanzaib Azhar**  
 **Date 5 Aug,2026**
