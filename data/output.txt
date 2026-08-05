@@ -1,0 +1,32 @@
+=====================================
+     INTELLICHARGE BILLING REPORT
+=====================================
+
+Customer Name: Jhanzaib
+Customer Type: Domestic
+Units Consumed: 203
+Generated On: 2026-01-08 11:40:11
+
+----------- BILL BREAKDOWN -----------
+Base Charge:       PKR 5620.00
+Fuel Adjustment:   PKR 609.00
+Fixed Charges:     PKR 85.00
+Tax:               PKR 1073.38
+TOTAL BILL:        PKR 7387.38
+-------------------------------------
+TOTAL BILL:          PKR 7387.38
+-------------------------------------
+
+---------- USAGE PREDICTION ----------
+Predicted Units: 152
+Trend: decreasing
+Confidence: 85%
+Model Used: Linear Growth Model
+
+Factors:
+- Usage trending downward
+- Seasonal variations may affect usage
+
+=====================================
+           END OF REPORT
+=====================================
