@@ -2,7 +2,7 @@
 
 IntelliCharge is a **predictive electricity billing system** developed using **C++** and **Java**. The project calculates electricity bills based on **customer type and unit consumption** and also predicts **future electricity usage**.
 
-This system is designed to demonstrate **Object-Oriented Programming (OOP)** concepts, **file handling**, and **cross-language integration** between Java and C++ in a practical way.
+This system is designed to demonstrate **Object-Oriented Programming(OOP)** concepts, **file handling**, and **cross-language integration** between Java and C++ in a practical way.
 
 ---
 
